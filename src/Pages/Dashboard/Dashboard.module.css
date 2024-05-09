@@ -1,0 +1,33 @@
+.DashboardBox{
+    max-width: 95%;
+    margin: auto;
+    box-sizing: border-box;
+}
+
+.NavBelowBox {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    gap: 20px;
+}
+
+.MenuBox{
+    max-width: 17%;
+    width: 17% !important;
+    border: 1px solid white;
+    max-height: 600px;
+    flex-grow: 1;
+    background-color: #1976d2;
+    color: white;
+    font-weight: 600 !important;
+}
+
+.AnalyticsBox{
+    /* border: 1px solid black; */
+    max-height: 600px;
+    flex-grow: 1;
+}
+
+h4{
+    padding: 0px 0px 0px 20px;
+}

@@ -1,0 +1,12 @@
+.LaunchTimelineBox {
+  height: 100%;
+  overflow: scroll;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+.circleBox {
+  height: 13px;
+  width: 13px;
+  border-radius: 50%;
+}
